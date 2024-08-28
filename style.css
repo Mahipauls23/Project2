@@ -5,25 +5,23 @@
     color:#ffffff;
     
   }
-  /* .main{
-    position: relative;
-  } */
+  
 .navbar{
    
     background: #6F6AF7;
    color:#FFFFFF;
    display: flex;
    align-items: center;
-   justify-content: space-evenly;
+   justify-content: space-around;
 }
 .project{
-    font-size: 61.43px;
+    font-size: 52px;
     margin-left: 0em;
     font-family: 'Delius', 'Unicase';
 }
 .navlist{
     
-    font-size: 36.43px;
+    font-size: 32px;
 }
 .navlist ul{
     list-style: none;
@@ -32,8 +30,11 @@
 }
 .navlist ul li{
     
-    font-size: 36.43;
+    /* font-size: 3px; */
     padding: 0 .5em;
+}
+.navc img{
+    width:70%;
 }
 .search{
     border-radius: 63px;
